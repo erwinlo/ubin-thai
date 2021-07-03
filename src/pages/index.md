@@ -3,16 +3,21 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/buddha_statue.png
     image_alt: App preview
-    title: Ubin Thai Temple
+    title: Ubin Thai Buddhist Temple
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+      Ubin Thai Buddhist temple relocated from Pulau Ubin to its current site 
+      at Sengkang/Jln Kayu. It continues to serve believers and the community
+      with heart!
     actions:
       - label: Learn More
         url: /features
         style: primary
+  - section_id: recent-posts
+    type: section_posts
+    background: gray
+    title: Latest Posts
   - section_id: features
     type: section_features
     background: gray
@@ -98,34 +103,30 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
-  - section_id: recent-posts
-    type: section_posts
-    background: gray
-    title: Latest Posts
 seo:
   title: Ubin Thai Temple
-  description: The preview of the Azimuth theme
+  description: Ubin Thai Temple
   extra:
-    - name: 'og:type'
+    - name: "og:type"
       value: website
       keyName: property
-    - name: 'og:title'
-      value: Stackbit Azimuth Theme
+    - name: "og:title"
+      value: Ubin Thai Temple
       keyName: property
-    - name: 'og:description'
-      value: The preview of the Azimuth theme
+    - name: "og:description"
+      value: Ubin Thai Temple
       keyName: property
-    - name: 'og:image'
+    - name: "og:image"
       value: images/hero.png
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: "twitter:card"
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: "twitter:title"
       value: Stackbit Azimuth Theme
-    - name: 'twitter:description'
+    - name: "twitter:description"
       value: The preview of the Azimuth theme
-    - name: 'twitter:image'
+    - name: "twitter:image"
       value: images/hero.png
       relativeUrl: true
 template: landing
