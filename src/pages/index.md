@@ -12,7 +12,7 @@ sections:
       with heart!
     actions:
       - label: Learn More
-        url: /features
+        url: /about
         style: primary
   - section_id: recent-posts
     type: section_posts
