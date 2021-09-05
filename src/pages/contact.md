@@ -4,9 +4,17 @@ sections:
   - section_id: contact
     type: section_contact
     background: gray
-    title: Contact
+    title: Contact Us
     content: >-
-      Phone: (65) 8126 3393 
+      ### Address  
+
+      70 Sengkang West Avenue #01-03  
+
+      Singapore 797651
+
+      ### Phone  
+
+      (65) 9729 8812
 seo:
   title: Contact
   description: This is the contact page
