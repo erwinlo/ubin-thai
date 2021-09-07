@@ -17,7 +17,7 @@
             },
             {
                 "label": "News",
-                "url": "/",
+                "url": "/blog",
                 "style": "link"
             },
             {
