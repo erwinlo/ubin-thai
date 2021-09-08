@@ -1,14 +1,14 @@
 ---
 title: 2021 Kathina Celebration
 excerpt: >-
-  Details of 2021 Kathina Celebration.
-date: '2021-09-07'
+  Kathina is a Buddhist festival which comes at the end of Vassa, the three-month rainy season retreat for Theravada Buddhists.
+date: '2021-09-08'
 thumb_image: images/2017-kathina.jpg
 image: images/2017-kathina.jpg
 seo:
   title: 2021 Kathina Celebration
   description: >-
-    Details of 2021 Kathina Celebration.
+    Kathina is a Buddhist festival which comes at the end of Vassa, the three-month rainy season retreat for Theravada Buddhists.
   extra:
     - name: 'og:type'
       value: article
@@ -18,7 +18,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Details of 2021 Kathina Celebration.
+        Kathina is a Buddhist festival which comes at the end of Vassa, the three-month rainy season retreat for Theravada Buddhists.
       keyName: property
     - name: 'og:image'
       value: images/2017-kathina.jpg
@@ -30,11 +30,24 @@ seo:
       value: 2021 Kathina Celebration
     - name: 'twitter:description'
       value: >-
-        Details of 2021 Kathina Celebration.
+        Kathina is a Buddhist festival which comes at the end of Vassa, the three-month rainy season retreat for Theravada Buddhists.
     - name: 'twitter:image'
       value: images/2017-kathina.jpg
       relativeUrl: true
 template: post
 ---
 
-Details of 2021 Kathina Celebration
+> Kathina is a Buddhist festival which comes at the end of Vassa, the three-month rainy season retreat for Theravada Buddhists.
+
+> It is a time of giving, for the laity to express gratitude to bhikkhus. Lay Buddhists bring donations to temples, especially new robes for the monks. Also the gift of the attha parikara - the Eight Requisites - is part of the offerings.
+
+[source: Wikipedia](https://en.wikipedia.org/wiki/Kathina)
+
+Dear Devotees, Sisters and Brothers
+
+Ubin Thai Buddhist Temple is going to celebrate **2021 Tod Pha Kartin Ceremony** _(Cum Four ace Buddha's Birthday)_
+
+Date: **7 Nov 2021**  
+Time: **10.00 AM**
+
+![alt text](/images/2021-Kathina-brochure.jpg '2021 Kathina brochure')
