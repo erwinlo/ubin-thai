@@ -17,31 +17,31 @@ sections:
   - section_id: recent-posts
     type: section_posts
     background: gray
-    title: Latest Posts
+    title: Latest News
 seo:
   title: Ubin Thai Temple
   description: Ubin Thai Temple
   extra:
-    - name: "og:type"
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: "og:title"
+    - name: 'og:title'
       value: Ubin Thai Temple
       keyName: property
-    - name: "og:description"
+    - name: 'og:description'
       value: Ubin Thai Temple
       keyName: property
-    - name: "og:image"
+    - name: 'og:image'
       value: images/hero.png
       keyName: property
       relativeUrl: true
-    - name: "twitter:card"
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: "twitter:title"
+    - name: 'twitter:title'
       value: Stackbit Azimuth Theme
-    - name: "twitter:description"
+    - name: 'twitter:description'
       value: The preview of the Azimuth theme
-    - name: "twitter:image"
+    - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true
 template: landing
