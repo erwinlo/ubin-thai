@@ -41,7 +41,7 @@ template: post
 
 > It is a time of giving, for the laity to express gratitude to bhikkhus. Lay Buddhists bring donations to temples, especially new robes for the monks. Also the gift of the attha parikara - the Eight Requisites - is part of the offerings.
 
-[source: Wikipedia](https://en.wikipedia.org/wiki/Kathina)
+<sub><sup>[source: Wikipedia](https://en.wikipedia.org/wiki/Kathina)</sup></sub>
 
 Dear Devotees, Sisters and Brothers
 
