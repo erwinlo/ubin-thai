@@ -45,9 +45,11 @@ template: post
 
 Dear Devotees, Sisters and Brothers
 
-Ubin Thai Buddhist Temple is going to celebrate **2021 Tod Pha Kartin Ceremony** _(Cum Four ace Buddha's Birthday)_
+Ubin Thai Buddhist Temple is going to celebrate **2021 Tod Pha Kartin Ceremony** _(Cum Four Face Buddha's Birthday)_
 
 Date: **7 Nov 2021**  
 Time: **10.00 AM**
+
+If you would like to do donation in advance, you may visit the Temple from today until 7 Nov 2021 to do so. Please kindly approach the Temple's counter for assistance.
 
 ![alt text](/images/2021-Kathina-brochure.jpg '2021 Kathina brochure')
