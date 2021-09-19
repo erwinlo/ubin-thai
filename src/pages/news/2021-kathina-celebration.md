@@ -53,3 +53,13 @@ Time: **10.00 AM**
 If you would like to do donation in advance, you may visit the Temple from today until 7 Nov 2021 to do so. Please kindly approach the Temple's counter for assistance.
 
 ![alt text](/images/2021-Kathina-brochure.jpg '2021 Kathina brochure')
+
+###### Below are some pictures of last year's celebration of Four Face Buddha's Birthday
+
+![](/images/2020-four-face-Buddha-birthday/1.jpg)
+
+![](/images/2020-four-face-Buddha-birthday/2.jpg)
+
+![](/images/2020-four-face-Buddha-birthday/3.jpg)
+
+![](/images/2020-four-face-Buddha-birthday/4.jpg)
